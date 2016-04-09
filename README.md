@@ -1,2 +1,5 @@
-# ei
-Evolved Intelligence
+# Evolved Intelligence
+
+Approaches to creating Artificial Intelligence vary widely. Evolved Intelligence tackles the problem in a more opaque manner than many other approaches, borrowing concepts from the theories of evolution. This repository is for an ecosystem and set of rules to evolve an AI entity from scratch, starting with an [Artificial Narrow Intelligence](http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), adding functionality and abilities over time.
+
+Using analogies from biology, the first phase, `Life`, is equivalent to a single-celled organism. The criteria for success/reproduction is the ability to not die. In the same way that pain is used as a signal to help keep creatures with complex nervous systems from taking irreversible damage, this phase will take its ratio of 'used memory' to 'max allowed memory' as a signal, where if the limit is surpassed, the entity will 'die'. By integrating this behavior in the first phase, future generations should include mechanisms to remain healthy and continue to propagate their 'genetic code'. This may be the first of many health-related signals for an entity to be able to maintain its own health control systems.
